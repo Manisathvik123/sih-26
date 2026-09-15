@@ -1,4 +1,4 @@
-# PRAHARI
+# PRAHARI (still at prototype level and yet to accomplish more)
 
 AI-Based Predictive Personnel Stress and Welfare Monitoring System for
 Uniformed Forces — prototype for SIH 2026 Problem Statement **SIH26186**.
